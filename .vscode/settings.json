@@ -1,0 +1,12 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.sourceLevel": "1.8",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "C:\\Users\\ashiq\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-17.0.11.9-hotspot",
+            "sources": "C:\\Users\\ashiq\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-17.0.11.9-hotspot",
+            "default": true
+        }
+    ]
+}
