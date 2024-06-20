@@ -4,4 +4,4 @@
 # Technology Stack
 <h3>Programming Languages : Java, MYSQL, Spring Boot</h3>
 <h3>IDE - Apache Net Beans</h3>
-<h3>Data Base : MYSQL</h3>
+<h3>Data Base : PostGres</h3>
